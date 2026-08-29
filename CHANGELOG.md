@@ -1,3 +1,9 @@
+## [1.10.3](https://github.com/sjshb57/Pairip-Patches/compare/v1.10.2...v1.10.3) (2026-08-29)
+
+### 🔧 Improvements
+
+* release v1.10.3 ([257d33d](https://github.com/sjshb57/Pairip-Patches/commit/257d33d2ae6efa5e704a56bb35b6fea40d7eaac2))
+
 ## [1.10.2](https://github.com/sjshb57/Pairip-Patches/compare/v1.10.1...v1.10.2) (2026-07-13)
 
 ### 🚀 Updated App Support
